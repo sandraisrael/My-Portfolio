@@ -24,7 +24,9 @@ header{
   width: 80%;
   text-align: right;
   border-bottom: 2px solid #B2A6AC;
-  font-weight: lighter;
+}
+.intro h1, h2{
+  font-weight: 300;
 }
 
 section{
