@@ -3,28 +3,28 @@ body{
   background-color: #0D0308;
   color: #ffffff;
 }
-.container{
-  /*margin-left: 10%;
-  margin-right: 10%;*/
-}
 
-
-
-header{
-  flex-wrap: wrap;
-  /*max-width: 100%;*/
-  padding-top: 4%;
-}
-.logo, .title{
-  /*width: 20%;*/
-  /*text-align: left;*/
-}
 .logo img{
-  /*text-align: center;*/
+  max-width: 100%;
 }
+.logo{
+
+}
+
+
+/*.container{
+  margin: 1em 1em 1em 1em;
+}*/
+
+/*header{
+  flex-wrap: wrap;
+  width: 100%;
+}
+.logo{
+  text-align: center;
+}
+
 .intro{
-  /*width: 80%;*/
-  /*text-align: right;*/
   border-bottom: 2px solid #B2A6AC;
 }
 .intro h1, h2{
@@ -120,4 +120,4 @@ footer{
 /*MOBLIE*/
 @media screen and (max-width:500px){
 
-}
+}*/
