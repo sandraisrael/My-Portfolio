@@ -151,6 +151,8 @@ footer{
   }
   .title{
     width: 20%;
+    padding: 0;
+    text-align: left;
   }
   .projects{
     width: 80%;
